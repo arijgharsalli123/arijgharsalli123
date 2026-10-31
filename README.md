@@ -4,11 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=arijgharsalli123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224658280%3Fu%3D01cd869c18bda45af281379ac2a2060a84982310%26v%3D4" alt="arijgharsalli123 hero visual" />
 </p>
 
-**gharsalli arij** · Frontend or full-stack engineer
+**gharsalli arij** ·  Software Engineering and Information Systems student
 
 ## Operating principles
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        =  full-stack engineer
 LOCATION    = remote
 PUBLIC_REPOS = 6
 COMMUNITY   = 3 followers</code></pre>
