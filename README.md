@@ -2,148 +2,163 @@
 ### SOFTWARE ENGINEERING · FULL-STACK DEVELOPMENT · ARTIFICIAL INTELLIGENCE
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=arijgharsalli123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224658280%3Fu%3D01cd869c18bda45af281379ac2a2060a84982310%26v%3D4" width="100%" alt="Arij's GitHub Solar System"/>
+  <img src="https://www.gitskins.com/api/section/hero?username=arijgharsalli123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224658280%3Fu%3D01cd869c18bda45af281379ac2a2060a84982310%26v%3D4" width="100%" alt="Arij's developer profile"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/arijgharsalli123">
-    <img src="https://img.shields.io/badge/GITHUB-ARJGHARSALLI123-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/arij-gharsalli-331150432/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 <p align="center">
-  <code>ENGINEERING MINDS</code> · <code>BUILDING IDEAS</code> · <code>EXPLORING THE FUTURE</code>
+  <code>BUILD WITH PURPOSE</code> · <code>EXPLORE WITHOUT LIMITS</code> · <code>CREATE WITH IMPACT</code>
 </p>
+
+<h2 align="center">🌌 MY GITHUB SOLAR SYSTEM</h2>
+<p align="center">
+  <i>Languages are planets · Repositories are moons · Recent pushes are comets</i>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://www.gitskins.com/api/section/solar-orbits?username=arijgharsalli123&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224658280%3Fu%3D01cd869c18bda45af281379ac2a2060a84982310%26v%3D4&mode=light&v=2026-11-11"
+    />
+    <img
+      src="https://www.gitskins.com/api/section/solar-orbits?username=arijgharsalli123&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224658280%3Fu%3D01cd869c18bda45af281379ac2a2060a84982310%26v%3D4&mode=dark&v=2026-11-11"
+      width="100%"
+      alt="Arij's GitHub Solar System"
+    />
+  </picture>
+</p>
+
 
 ---
 
-# ☀️ 01. THE SUN — ABOUT ME
-
-> Every developer has a universe. Mine is built around curiosity, engineering, and creating meaningful software.
+# ☀️ 01 · THE SUN — ABOUT ME
 
 Hey! I'm **Arij Gharsalli**, a final-year Software Engineering and Information Systems student at the University of Monastir, Tunisia.
 
-I'm passionate about transforming ideas into functional software products, designing useful applications, and exploring how Artificial Intelligence can make technology smarter.
+I'm passionate about transforming ideas into functional software products, developing full-stack applications, and exploring how Artificial Intelligence can make technology smarter.
 
-I enjoy working across the development lifecycle: understanding requirements, designing solutions, implementing features, connecting services, and improving the final product.
+I enjoy the entire development journey: understanding problems, designing solutions, implementing features, integrating services, and continuously improving what I build.
 
-### 🎯 My engineering identity
+### 🎯 Engineering identity
 
-- 💻 **Full-Stack Development:** Building web and mobile applications.
-- ⚙️ **Backend Engineering:** Java, Spring Boot, APIs and database integration.
-- 🤖 **Artificial Intelligence:** Exploring Machine Learning and AI-powered applications.
-- ☁️ **Cloud & DevOps:** Learning modern infrastructure and deployment practices.
-- 🧩 **Problem Solving:** Turning real-world problems into practical software solutions.
+- 💻 Full-Stack Web & Mobile Development.
+- ⚙️ Backend Engineering with Java and Spring Boot.
+- 🤖 Artificial Intelligence and Machine Learning.
+- ☁️ Cloud Computing and DevOps.
+- 🧩 Software Architecture and Problem Solving.
 
-### 📍 Mission status
+### Mission parameters
 
 | Parameter | Status |
 |---|---|
-| Current level | Final-year student |
+| Education | Final-year student |
+| University | University of Monastir |
 | Location | Tunisia |
-| Main focus | Full-Stack Development |
-| AI exploration | Machine Learning & intelligent applications |
+| Primary focus | Full-Stack Development |
+| AI interest | Intelligent applications |
 | Career objective | Software Engineering |
-| Next mission | 6-month PFE internship |
-| Target start | January 2027 |
+| Next mission | PFE Internship |
+| Availability | January 2027 |
 
 ---
 
-# 🪐 02. THE ORBIT — PROJECT CONSTELLATION
+# 🌌 02 · THE SOLAR SYSTEM — MY DEVELOPER UNIVERSE
 
-> Each moon represents a project, a challenge, and an opportunity to learn something new.
+*Welcome to my GitHub universe.*
+
+Programming languages become planets. Repositories become moons. Recent pushes become comets.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-REAL--WORLD%20BUILDING-9B87F5?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-F5C451?style=for-the-badge"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/solar-orbits?username=arijgharsalli123&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224658280%3Fu%3D01cd869c18bda45af281379ac2a2060a84982310%26v%3D4&mode=light&v=2026-11-11"/>
+    <img src="https://www.gitskins.com/api/section/solar-orbits?username=arijgharsalli123&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224658280%3Fu%3D01cd869c18bda45af281379ac2a2060a84982310%26v%3D4&mode=dark&v=2026-11-11" width="100%" alt="Arij's GitHub Solar System: programming languages as planets, repositories as moons, and recent pushes as comets"/>
+  </picture>
 </p>
 
-## 🌕 MOON 01 — DEADLINE
+<p align="center">
+  <sub>PLANETS = LANGUAGES · MOONS = REPOSITORIES · COMETS = RECENT PUSHES</sub>
+</p>
 
+---
+
+# 🪐 03 · THE ORBIT — PROJECT CONSTELLATION
+
+*Every repository represents a challenge, an experiment, and another step in my engineering journey.*
+
+### 🌕 MOON 01 — DEADLINE
 **Personal Expiration Manager**
 
-An Android application designed to help users organize important personal documents, contracts, subscriptions, and expiration dates.
+An Android application for organizing important personal documents, contracts, subscriptions, and expiration dates.
 
-**Core concept**
 - Manage identity documents, licenses, insurance and certificates.
-- Track subscriptions, contracts and memberships.
+- Track contracts, subscriptions and memberships.
 - Organize expiration information in one place.
-- Support users in keeping important documents up to date.
+- Help users stay aware of important deadlines.
 
-**Technology orbit:** `Java` `Android Studio` `XML` `SQLite` `Firebase`
+`Java` `Android Studio` `XML` `SQLite` `Firebase`
 
----
-
-## 🌕 MOON 02 — VULNTRACK
-
+### 🌕 MOON 02 — VULNTRACK
 **Vulnerability Management Platform**
 
-A project focused on managing and organizing security vulnerabilities through a dedicated platform.
+A platform focused on organizing and managing cybersecurity vulnerabilities.
 
-**Core direction**
 - Vulnerability management.
 - Structured security information.
-- A software solution focused on cybersecurity workflows.
+- A dedicated application for cybersecurity workflows.
 
-**Repository:** [Explore VulnTrack →](https://github.com/arijgharsalli123/Vulntrack)
+[Explore repository →](https://github.com/arijgharsalli123/Vulntrack)
 
----
-
-## 🌕 MOON 03 — SMART RDV
-
+### 🌕 MOON 03 — SMART RDV
 **Intelligent Medical Appointment System**
 
-A medical appointment application designed to improve patient prioritization using AI-assisted symptom assessment.
+A medical appointment application integrating AI-assisted symptom assessment and patient prioritization.
 
-**Core features**
-- Medical appointment management.
 - Patient symptom questionnaire.
-- AI microservice for priority classification.
-- Priority levels: Low, Moderate, Urgent and Critical.
-- Backend integration between the application and AI service.
+- AI-based priority classification.
+- Four priority levels: Low, Moderate, Urgent and Critical.
+- Java backend integrated with a Python AI microservice.
 
-**Technology orbit:** `Java` `Spring Boot` `Python` `FastAPI` `Machine Learning`
+`Java` `Spring Boot` `Python` `FastAPI`
 
-**Repository:** [Explore SMART RDV →](https://github.com/arijgharsalli123/Smart-rdv-)
+[Explore repository →](https://github.com/arijgharsalli123/Smart-rdv-)
 
----
-
-## 🌕 MOON 04 — SHOPFLOW
-
+### 🌕 MOON 04 — SHOPFLOW
 **Backend Development Project**
 
-A Java backend project focused on developing application functionality and business logic.
+A Java backend project focused on implementing application functionality and business logic.
 
-**Technology orbit:** `Java` `Spring Boot`
+`Java` `Spring Boot`
 
-**Repository:** [Explore ShopFlow →](https://github.com/arijgharsalli123/shopflow-)
+[Explore repository →](https://github.com/arijgharsalli123/shopflow-)
 
----
-
-## 🌕 MOON 05 — CAFÉ FINDER
-
+### 🌕 MOON 05 — CAFÉ FINDER
 **Location-Based Café Discovery**
 
 A web application that helps users discover nearby cafés and filter locations according to their preferences.
 
-**Core features**
 - Discover nearby cafés using geographical coordinates.
-- Retrieve location data through OpenStreetMap and Overpass API.
+- Retrieve location information through OpenStreetMap and Overpass API.
 - Filter cafés by Wi-Fi availability and outdoor seating.
 - Display normalized café information.
 
-**Technology orbit:** `JavaScript` `Vite` `OpenStreetMap` `Overpass API`
+`JavaScript` `Vite` `OpenStreetMap` `Overpass API`
 
-**Repository:** [Explore Café Finder →](https://github.com/arijgharsalli123/cafe-Finder)
+[Explore repository →](https://github.com/arijgharsalli123/cafe-Finder)
 
 ---
 
-# 🌌 03. ORBIT LOG — CONTRIBUTION HISTORY
+# 🌠 04 · ORBIT LOG — CONTRIBUTION HISTORY
 
-> Every commit is a small step. Every project is another revolution.
+*Every commit is a small step. Every project is another revolution.*
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=arijgharsalli123&theme=github-dark" width="100%" alt="GitHub contribution heatmap"/>
@@ -155,88 +170,84 @@ A web application that helps users discover nearby cafés and filter locations a
 
 ---
 
-# 🪐 04. THE SOLAR SYSTEM — TECHNOLOGY UNIVERSE
+# 🧰 05 · TECHNOLOGY UNIVERSE — MY TOOLKIT
 
-> Languages are planets. Frameworks are their satellites. Tools are the infrastructure connecting everything.
+*The technologies I use to transform ideas into working applications.*
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=arijgharsalli123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224658280%3Fu%3D01cd869c18bda45af281379ac2a2060a84982310%26v%3D4" width="100%" alt="Programming languages and technology solar system"/>
-</p>
-
-### ☄️ PLANET 01 — PROGRAMMING LANGUAGES
+### ⚙️ PROGRAMMING LANGUAGES
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css"/>
 </p>
 
-### ☄️ PLANET 02 — FRONTEND DEVELOPMENT
+### 🎨 FRONTEND & MOBILE
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
 </p>
 
-### ☄️ PLANET 03 — BACKEND DEVELOPMENT
+### 🔧 BACKEND DEVELOPMENT
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,fastapi"/>
 </p>
 
-### ☄️ PLANET 04 — DATABASE SYSTEMS
+### 🗄️ DATABASE SYSTEMS
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 </p>
 
-### ☄️ PLANET 05 — DEVELOPMENT TOOLS
+### 🛠️ DEVELOPMENT TOOLS
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
 </p>
 
-### 🔭 DISTANT ORBITS — CURRENTLY EXPLORING
+### 🔭 CURRENTLY EXPLORING
 
-- Artificial Intelligence & Machine Learning.
+- Artificial Intelligence and Machine Learning.
 - AI-powered application development.
 - Cloud Computing and AWS.
 - Docker and DevOps practices.
-- Software architecture and scalable applications.
+- Scalable software architectures.
 
 ---
 
-# 🧠 05. THE RESEARCH STATION — LEARNING & GROWTH
+# 🧠 06 · RESEARCH STATION — LEARNING JOURNEY
 
-I'm continuously expanding my knowledge through academic coursework, practical projects, and experimentation.
+I believe that becoming a good engineer requires more than knowing programming languages. It requires understanding systems, solving problems, and learning how different technologies work together.
 
-### Current learning areas
+### Current learning priorities
 
-| Domain | Learning focus |
+| Domain | Focus |
 |---|---|
-| Artificial Intelligence | Machine Learning, AI integration |
-| Software Engineering | Architecture, clean code, design |
-| Backend | Spring Boot, APIs, application logic |
-| Databases | SQL, relational database design |
-| Cloud | Cloud fundamentals and AWS |
+| AI & Machine Learning | Models, practical ML and AI integration |
+| Software Engineering | Architecture, clean code and design |
+| Backend Engineering | Spring Boot, REST APIs and business logic |
+| Database Engineering | SQL and relational database design |
+| Cloud Computing | Cloud fundamentals and AWS |
 | DevOps | Docker, deployment and automation |
 
-### My development philosophy
+### My engineering principles
 
 1. Understand the problem before writing code.
-2. Build practical solutions instead of only following tutorials.
-3. Learn technologies by applying them to real projects.
-4. Test, improve and document what I build.
-5. Keep exploring new ideas and engineering practices.
+2. Build real applications, not just isolated exercises.
+3. Learn by experimenting and implementing.
+4. Test and improve continuously.
+5. Document knowledge and share progress.
 
 ---
 
-# 🚀 06. NEXT MISSION — PFE 2027
+# 🚀 07 · NEXT MISSION — PFE 2027
 
-<kbd>MISSION: FINAL YEAR PROJECT</kbd>
+<kbd>MISSION STATUS: OPEN FOR OPPORTUNITIES</kbd>
 
-**Status:** Looking for a six-month PFE internship starting January 2027.
+**Final Year Project Internship · January 2027**
 
-I'm interested in joining a team where I can contribute to real software development projects, collaborate with experienced engineers, and strengthen my technical and problem-solving abilities.
+I'm looking for a six-month internship where I can contribute to real-world software development, collaborate with an engineering team, and strengthen my technical and problem-solving skills.
 
-### Mission interests
+### Areas of interest
 
 - Full-Stack Application Development.
 - AI-powered Software Solutions.
@@ -244,19 +255,19 @@ I'm interested in joining a team where I can contribute to real software develop
 - Backend Engineering and Software Architecture.
 - Cloud-Native Development and DevOps.
 
-**My objective:** Build intelligent technology that solves meaningful problems while growing into a well-rounded software engineer.
+**Mission objective:** Contribute to meaningful projects while growing into a well-rounded software engineer.
 
 ---
 
-# 📡 07. TRANSMISSION STATION — LET'S CONNECT
+# 📡 08 · TRANSMISSION STATION — LET'S CONNECT
 
-> Good ideas become better when people build them together.
+*Good ideas become better when people build them together.*
 
-I'm always open to connecting with developers, exchanging knowledge, collaborating on interesting projects, and exploring internship opportunities.
+I'm always happy to connect with developers, exchange knowledge, collaborate on interesting projects, and explore professional opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arij-gharsalli-331150432/">
-    <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/arijgharsalli123">
     <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
