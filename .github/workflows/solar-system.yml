@@ -1,0 +1,41 @@
+
+name: Update GitHub Solar System
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */12 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_solar_system.py"
+      - ".github/workflows/solar-system.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Solar System
+        run: python scripts/generate_solar_system.py
+        env:
+          GITHUB_USERNAME: arijgharsalli123
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/solar-system.svg
+          git diff --cached --quiet || git commit -m "chore: update GitHub Solar System"
+          git push
